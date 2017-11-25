@@ -1,0 +1,6 @@
+﻿  1_is digit.cpp
+c:\users\natalja\documents\visual studio 2015\projects\2_1_strings_char\2_1_strings_char\1_is digit.cpp(11): warning C4018: '<': signed/unsigned mismatch
+c:\users\natalja\documents\visual studio 2015\projects\2_1_strings_char\2_1_strings_char\1_is digit.cpp(14): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+  2_1_Strings_char.vcxproj -> c:\users\natalja\documents\visual studio 2015\Projects\2_1_Strings_char\Debug\2_1_Strings_char.exe
+  2_1_Strings_char.vcxproj -> c:\users\natalja\documents\visual studio 2015\Projects\2_1_Strings_char\Debug\2_1_Strings_char.pdb (Full PDB)

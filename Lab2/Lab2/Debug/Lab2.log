@@ -1,0 +1,12 @@
+﻿  Source.cpp
+c:\users\natalja\documents\visual studio 2015\projects\lab2\lab2\source.cpp(19): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\natalja\documents\visual studio 2015\projects\lab2\lab2\source.cpp(29): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\natalja\documents\visual studio 2015\projects\lab2\lab2\source.cpp(41): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\natalja\documents\visual studio 2015\projects\lab2\lab2\source.cpp(49): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\natalja\documents\visual studio 2015\projects\lab2\lab2\source.cpp(61): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab2.vcxproj -> C:\Users\Natalja\documents\visual studio 2015\Projects\Lab2\Debug\Lab2.exe
+  Lab2.vcxproj -> C:\Users\Natalja\documents\visual studio 2015\Projects\Lab2\Debug\Lab2.pdb (Full PDB)

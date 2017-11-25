@@ -1,0 +1,5 @@
+﻿  Practic2Task2.cpp
+c:\users\natalja\documents\visual studio 2015\projects\practic2task2\practic2task2\practic2task2.cpp(51): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\natalja\documents\visual studio 2015\projects\practic2task2\practic2task2\practic2task2.cpp(60): warning C4018: '<': signed/unsigned mismatch
+  Practic2Task2.vcxproj -> c:\users\natalja\documents\visual studio 2015\Projects\Practic2Task2\Debug\Practic2Task2.exe
+  Practic2Task2.vcxproj -> c:\users\natalja\documents\visual studio 2015\Projects\Practic2Task2\Debug\Practic2Task2.pdb (Full PDB)

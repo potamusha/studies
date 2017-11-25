@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\natalja\documents\visual studio 2015\projects\lab3\lab3\source.cpp(25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\natalja\documents\visual studio 2015\projects\lab3\lab3\source.cpp(117): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+  Lab3.vcxproj -> C:\Users\Natalja\documents\visual studio 2015\Projects\Lab3\Debug\Lab3.exe
+  Lab3.vcxproj -> C:\Users\Natalja\documents\visual studio 2015\Projects\Lab3\Debug\Lab3.pdb (Full PDB)
