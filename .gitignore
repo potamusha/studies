@@ -36,3 +36,6 @@
 **.db
 Debug/
 *.sln
+
+*.vcxproj
+*.vcxproj.filters
