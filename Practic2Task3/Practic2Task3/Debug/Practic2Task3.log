@@ -1,8 +1,0 @@
-﻿  Practic2Task3.cpp
-c:\users\natalja\documents\visual studio 2015\projects\practic2task3\practic2task3\practic2task3.cpp(61): warning C4129: 'N': unrecognized character escape sequence
-c:\users\natalja\documents\visual studio 2015\projects\practic2task3\practic2task3\practic2task3.cpp(63): warning C4129: 'A': unrecognized character escape sequence
-c:\users\natalja\documents\visual studio 2015\projects\practic2task3\practic2task3\practic2task3.cpp(62): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
-c:\users\natalja\documents\visual studio 2015\projects\practic2task3\practic2task3\practic2task3.cpp(72): warning C4018: '<': signed/unsigned mismatch
-  Practic2Task3.vcxproj -> c:\users\natalja\documents\visual studio 2015\Projects\Practic2Task3\Debug\Practic2Task3.exe
-  Practic2Task3.vcxproj -> c:\users\natalja\documents\visual studio 2015\Projects\Practic2Task3\Debug\Practic2Task3.pdb (Full PDB)

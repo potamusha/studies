@@ -1,7 +1,0 @@
-﻿  task3.cpp
-c:\users\natalja\documents\visual studio 2015\projects\practic1task3\practic1task3\task3.cpp(20): warning C4018: '<': signed/unsigned mismatch
-c:\users\natalja\documents\visual studio 2015\projects\practic1task3\practic1task3\task3.cpp(33): warning C4018: '<': signed/unsigned mismatch
-c:\users\natalja\documents\visual studio 2015\projects\practic1task3\practic1task3\task3.cpp(41): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
-  Practic1Task3.vcxproj -> c:\users\natalja\documents\visual studio 2015\Projects\Practic1Task3\Debug\Practic1Task3.exe
-  Practic1Task3.vcxproj -> c:\users\natalja\documents\visual studio 2015\Projects\Practic1Task3\Debug\Practic1Task3.pdb (Full PDB)
