@@ -11,13 +11,14 @@ void addElement(int *ptLeftArr, int *arr, int *ptRightArr, int v, int element);
 void addThreeElements(int *ptLeftArr, int *arr, int *ptRightArr, int afterElemet, int element1, int element2, int element3);
 int average(int *ptArr, int *arr, int v);
 //void printaverage(int *ptArr, int *arr);
+void deleteElement(int *ptArr, int v);
 
 int const end = -1;
 //int v;
 
 int main() {
-	int m = 10;
-	int n = 5;
+	int m = 13;
+	int n = 10;
 	int *arrayLeftPointer = new int[m];
 	int *arrayRightPointer = new int[m];
 	int *arrayValue = new int[m];
@@ -111,8 +112,17 @@ int main() {
 		avarageOfList = average(arrayLeftPointer, arrayValue, vLeft);
 		printf("%d", avarageOfList);
 		printf("	- Avarage for a list wich goes to the LEFT\n");
+		printf("\n***************************\n");
 
 		//printaverage(arrayRightPointer, arrayValue);
+
+		//int address = 4;
+		//deleteElement(arrayRightPointer, address);
+		//printAllElements(arrayRightPointer, arrayValue, vRight);
+		printf("	- A list goes to the RIGHT:\n");
+		//printAllElements(arrayLeftPointer, arrayValue, vLeft);
+		printf("	- A list goes to the LEFT:\n");
+
 
 getch();
 }
@@ -156,7 +166,7 @@ void printAllElements(int *ptArr, int *arr, int v) {
 
  int lenghtOfList(int *arr) {
 	int n = 0;
-	while (arr[n] > 0) {
+	while (arr[n] >= 0) {
 		n++;
 	}
 	return n;
@@ -208,6 +218,10 @@ int average(int *ptArr, int *arr, int v) {
 	return result = sum / count;
 }
 
+
+void deleteElement(int *ptArr, int v) {
+	ptArr[v] = ptArr[ptArr[v]];
+}
 
 /*void printaverage(int *ptArr, int *arr) {
 	int i = 0;

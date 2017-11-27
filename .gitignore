@@ -32,4 +32,6 @@
 *.app
 
 .vs/
-Debug/
+*.opendb
+**.db
+**/Debug/
