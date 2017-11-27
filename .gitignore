@@ -34,4 +34,4 @@
 .vs/
 *.opendb
 **.db
-**/Debug/
+Debug/
